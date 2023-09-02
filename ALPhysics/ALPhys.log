@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.10)  2 SEP 2023 20:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.10)  2 SEP 2023 20:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**Standard
-(./Standard.tex
+**ALPhys
+(./ALPhys.tex
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-06-30>
 (c:/texlive/2023/texmf-dist/tex/latex/base/book.cls
@@ -994,8 +994,8 @@ LaTeX Font Info:    Font shape `T1/zplTLF/m/n' will be
 File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count347
 \l__pdf_internal_box=\box95
-) (./Standard.aux)
-\openout1 = `Standard.aux'.
+) (./ALPhys.aux)
+\openout1 = `ALPhys.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/npxmi/m/it on input line 9.
 LaTeX Font Info:    Trying to load font information for OML+npxmi on input line 9.
@@ -1098,9 +1098,9 @@ LaTeX Info: Command `\ddddot' is already robust on input line 9.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring ON on input line 9.
-(./Standard.out) (./Standard.out)
+(./ALPhys.out) (./ALPhys.out)
 \@outlinefile=\write4
-\openout4 = `Standard.out'.
+\openout4 = `ALPhys.out'.
 
 \c@mv@tabular=\count354
 \c@mv@boldtabular=\count355
@@ -1215,9 +1215,9 @@ LaTeX Font Info:    Font shape `T1/zplTLF/b/n' will be
 (Font)              scaled to size 10.0pt on input line 20.
 LaTeX Font Info:    Font shape `T1/zplTLF/b/n' will be
 (Font)              scaled to size 20.74pt on input line 20.
- (./Standard.toc)
+ (./ALPhys.toc)
 \tf@toc=\write5
-\openout5 = `Standard.toc'.
+\openout5 = `ALPhys.toc'.
 
  [1
 
@@ -1264,7 +1264,7 @@ Chapter 7.
 Chapter 8.
 [7
 
-] (./Standard.aux)
+] (./ALPhys.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-06-30>
@@ -1274,19 +1274,19 @@ L3 programming layer <2023-06-30>
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.97499pt have occurred.
 
-Package rerunfilecheck Info: File `Standard.out' has not changed.
+Package rerunfilecheck Info: File `ALPhys.out' has not changed.
 (rerunfilecheck)             Checksum: A443F1000B9683B3746EEB493993D8A9;936.
  ) 
 Here is how much of TeX's memory you used:
  31986 strings out of 475237
- 619227 string characters out of 5768555
+ 619179 string characters out of 5768555
  1936238 words of memory out of 5000000
  52545 multiletter control sequences out of 15000+600000
  625659 words of font info for 154 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 109i,15n,111p,541b,1094s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 109i,15n,111p,539b,1094s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/euler/eurm10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/euler/eurm5.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/euler/eurm7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/newpx/pxmiaX.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/newpx/pxsys.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/tex-gyre/qhvr.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/newtx/txexs.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/txfonts/txsya.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/newpx/zplb.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/newpx/zplr.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/newpx/zplri.pfb>
-Output written on Standard.pdf (8 pages, 183655 bytes).
+Output written on ALPhys.pdf (8 pages, 183655 bytes).
 PDF statistics:
  169 PDF objects out of 1000 (max. 8388607)
  133 compressed objects within 2 object streams
