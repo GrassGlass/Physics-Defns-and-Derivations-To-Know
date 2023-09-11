@@ -134,13 +134,42 @@
     \item \textit{Internal energy} of a system is a sum of \emph{random distribution} of kinetic and potential energy \emph{associated with the molecules} of the system.
     \item The \textit{First Law of Thermodynamics} states that the \emph{increase} in internal energy of a closed system is the \emph{sum} of heat \emph{supplied} to the system and the work done \emph{on} the system. 
 \end{itemize}
+\chapter{Circular Motion}
+\begin{itemize}
+    \item \textit{Angular displacement} is the angle through which an object turns \emph{with respect to the centre} of the circular path.
+    \item \textit{The radian} is defined as the angle \emph{subtended} at the \emph{centre} of a circle by an \emph{arc} of length equal to the radius of the circle. 
+    \item \textit{Angular velocity} is the rate of change of angular displacement.
+\end{itemize}
+\begin{itemize}[label=\(\square\)]
+    \item \begin{tabular}{|Sc|Sc|Sc|Sc|Sc|}
+        \hline
+            \(\begin{aligned}
+                \omega=\frac{2\pi}{T}=2\pi f
+            \end{aligned}\)&
+            \(\begin{aligned}
+                v=r\omega
+            \end{aligned}\)&
+            \(\begin{aligned}
+                a_c=\frac{v^2}{r}=r\omega^2=v\omega
+            \end{aligned}\)&
+            \(\begin{aligned}
+                F_c=ma_c
+            \end{aligned}\)
+        \\
+        \hline
+    \end{tabular}
+    \item Common formulae: \(\theta=\tan^{-1}\left(\frac{v^2}{rg}\right)\), \(v=\sqrt{rg}\).
+    \item Water in bucket at top position: \(F_c=N+W\) (where \(N\geq 0\)) so \(\omega>\sqrt{\frac{g}{r}}\).
+    \item Need to write ``Centripetal force is provided by \underline{\hspace{1cm}}'' 
+\end{itemize}
 \chapter{Gravitational Fields}
 \begin{itemize}
     \item \textit{Newton's Law of Gravitation} states that the force of attraction between any two point masses is directly proportional to the product of their masses and inversely proportional to the square of their separation.
     \item A \textit{gravitational field} is a region in space where mass experiences a gravitational force acting on it.
     \item Gravitational field strength at a point is defined as the gravitational force per unit mass acting on a small mass placed at that point
-    \item The \textit{gravitational potential energy} of a mass at a point is defined as the work done by an \emph{external agent} in bringing the mass from infinity to that point (without any change in kinetic energy).
-    \item \textit{Gravitational potential} at a point is defined as the work done per unit mass by an \emph{external agent} in bringing a mass from infinity to that point (without a change in kinetic energy).
+    \item The \textit{gravitational potential energy} of a mass at a point is defined as the work done by an \emph{external agent} in bringing the mass \emph{from infinity} to that point (without any change in kinetic energy).
+    \item \textit{Gravitational potential} at a point is defined as the work done per unit mass by an \emph{external agent} in bringing a mass \emph{from infinity} to that point (without a change in kinetic energy).
+    \item Escape velocity is the \emph{minimum} velocity a mass needs to be projected from the \emph{surface} of the moon in order to have sufficient kinetic energy to overcome the gravitational field it experiences and \emph{move to infinity}.
 \end{itemize}
 \begin{itemize}[label=\(\square\)]
     \item \[
@@ -150,6 +179,7 @@
 \end{tikzcd}
 \]
 \item \(U_G=m\phi\) \& \(\Delta U_G=m\Delta\phi\).
+\item \(U_G\) is negative because infinity is taken as the reference point for zero potential energy.
 \item Gravitational force provides the centripetal force:
 \begin{align*}
     F_G&=F_c\\
@@ -167,6 +197,97 @@ The centre of mass of the system is at point \(P\) where
 \[m_Ar_A=m_Br_B\]
 such that both stars have the same angular velocity \(\omega\).
 \item Escape velocity \(v_\text{min}=\sqrt{\frac{2GM}{r}}\) (where Min \(E_k\) needed is the gain in \(E_p\) to reach infinity).
+\item Geostationary orbit facts:
+\begin{enumerate}
+    \item Only one such orbit at a \emph{fixed} distance of \(4.2\times10^7\text{m}\) from Earth's centre,
+    \item Orbital period of 24 hours,
+    \item Satellite's plane of orbit coincides with the equatorial plane of the Earth,
+    \item Orbits West to East (in the same direction as Earth's rotation). 
+\end{enumerate}
+\item Equipotential lines are not equally spaced because the gravitational field strength is not constant but decreases as one goes away from the Earth.
+\end{itemize}
+\chapter{Oscillations}
+\begin{itemize}
+    \item \textit{Simple harmonic motion} is defined as the motion of a body whose acceleration is directly proportional to its displacement from a fixed point (equilibrium position) and is always directed towards that fixed point.
+    \item A \textit{freely oscillating} system oscillates at its own \textit{natural frequency} without \emph{external} influences other than the \emph{initial impulse when displaced} from its equilibrium position, with \emph{no dissipation} of energy.
+    \item \textit{Damped oscillations} are oscillations in which the amplitude diminishes with time as a result of \emph{dissipative forces} that reduce the total energy of the oscillations.
+    \item A system is in \textit{forced oscillations} when it is forced to oscillate at a frequency other than the natural frequency by a \emph{periodic external} force.
+    \item \textit{Resonance} is a phenomenon that occurs when the frequency at which an object is being made to vibrate (the forced frequency of vibration) is equal equal to its natural frequency of vibration.
+\end{itemize}
+\begin{itemize}[label=\(\square\)]
+    \item \begin{tabular}{|Sc|Sc|Sc|Sc|Sc|}
+        \hline
+        \multirow{2}{*}[-1em]{\(\begin{aligned}
+            v=\pm \omega \sqrt{x_0^2-x^2}
+        \end{aligned}\)}&\multirow{2}{*}[-1em]{\(\begin{aligned}
+            a=-\omega^2x
+        \end{aligned}\)}& Spring-Mass & Pendulum\\
+            &
+            &
+            \(\begin{aligned}
+                T=2\pi\sqrt{\frac{m}{k}}
+            \end{aligned}\)&
+            \(\begin{aligned}
+                T=2\pi\sqrt{\frac{l}{g}}
+            \end{aligned}\)
+        \\
+        \hline
+    \end{tabular}
+    \item \begin{tabular}{|Sc|Sc|Sc|Sc|}
+        \hline
+        &
+    \(\begin{aligned}
+        E_k
+    \end{aligned}\)&
+    \(\begin{aligned}
+        E_p
+    \end{aligned}\)&
+    \(\begin{aligned}
+            E_T
+    \end{aligned}\)\\
+    \hline
+        \(\begin{aligned}
+            t
+        \end{aligned}\)&
+        \(\begin{aligned}
+            \frac{1}{2}m\omega^2x_0^2\cos^2(\omega t)
+        \end{aligned}\)&
+        \(\begin{aligned}
+            \frac{1}{2}m\omega^2x_0^2\sin^2(\omega t)
+        \end{aligned}\)&
+        \(\begin{aligned}
+            \frac{1}{2}m\omega^2x_0^2
+        \end{aligned}\)\\
+        \hline
+        \(\begin{aligned}
+            m
+        \end{aligned}\)&
+        \(\begin{aligned}
+            \frac{1}{2}m\omega^2(x_0^2-x^2)
+        \end{aligned}\)&
+        \(\begin{aligned}
+            \frac{1}{2}m\omega^2x^2
+        \end{aligned}\)&
+        \(\begin{aligned}
+            \frac{1}{2}m\omega^2x_0^2
+        \end{aligned}\)\\
+        \hline
+    \end{tabular}
+    \item Simple pendulums and mass spring systems can be approximated to be SHM when the angle of oscillation (\(\leq 20^\circ\)) and oscillation amplitude are small, respectively.
+    \item \begin{tabular}{|Sc|Sc|Sc|Sc|}
+        \hline
+        & In Phase & Antiphase & Out of Phase\\
+        \hline
+        \(\Delta \phi\)/rad & 0 & \(\pi\) & nonzero
+        \\
+        \hline
+    \end{tabular}
+    \item When damping increases:
+    \begin{itemize}[label=\(\circ\)]
+        \item Amplitude at \emph{all} frequencies decreases.
+        \item (Resonance) frequency at max amplitude shifts gradually to lower frequencies.
+        \item Peak (max amplitude) becomes flatter.
+    \end{itemize}
 \end{itemize}
 
 \end{document}
