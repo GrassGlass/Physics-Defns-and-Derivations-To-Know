@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.10)  8 SEP 2023 19:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.10)  12 SEP 2023 17:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1275,6 +1275,12 @@ LaTeX Font Info:    Font shape `T1/zplTLF/m/sl' will be
 Chapter 10.
 [10
 
+]
+Chapter 11.
+LaTeX Font Info:    Font shape `T1/zplTLF/m/n' will be
+(Font)              scaled to size 5.0pt on input line 316.
+[11
+
 ] (./ALPhys.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
@@ -1286,21 +1292,21 @@ LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.97499pt have occurred.
 
 Package rerunfilecheck Info: File `ALPhys.out' has not changed.
-(rerunfilecheck)             Checksum: B3BDEA6BE04F4D701EA093FF1AE67272;1161.
+(rerunfilecheck)             Checksum: 29F8D6D5A2EF4D0082A827CD95BA3242;1264.
  ) 
 Here is how much of TeX's memory you used:
- 32005 strings out of 475237
- 619402 string characters out of 5768555
+ 32013 strings out of 475237
+ 619562 string characters out of 5768555
  1937238 words of memory out of 5000000
- 52550 multiletter control sequences out of 15000+600000
- 629458 words of font info for 158 fonts, out of 8000000 for 9000
+ 52556 multiletter control sequences out of 15000+600000
+ 632487 words of font info for 159 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  109i,17n,111p,539b,1094s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/newpx/NewPXMI_gnu.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/euler/eurm10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/euler/eurm5.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/euler/eurm7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/newpx/pxmiaX.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/newpx/pxsys.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/tex-gyre/qhvr.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/newtx/txexs.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/txfonts/txsya.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/newpx/zplb.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/newpx/zplr.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/newpx/zplri.pfb>
-Output written on ALPhys.pdf (11 pages, 197441 bytes).
+Output written on ALPhys.pdf (12 pages, 199926 bytes).
 PDF statistics:
- 207 PDF objects out of 1000 (max. 8388607)
- 165 compressed objects within 2 object streams
- 40 named destinations out of 1000 (max. 500000)
- 85 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 216 PDF objects out of 1000 (max. 8388607)
+ 173 compressed objects within 2 object streams
+ 42 named destinations out of 1000 (max. 500000)
+ 93 words of extra memory for PDF output out of 10000 (max. 10000000)
 
