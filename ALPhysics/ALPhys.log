@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.10)  12 SEP 2023 21:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.10)  19 SEP 2023 22:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -983,13 +983,15 @@ LaTeX Font Info:    Redeclaring math symbol \ell on input line 245.
 LaTeX Font Info:    Redeclaring math symbol \imath on input line 275.
 LaTeX Font Info:    Redeclaring math symbol \jmath on input line 276.
 LaTeX Font Info:    Redeclaring math symbol \wp on input line 277.
+) (c:/texlive/2023/texmf-dist/tex/latex/bbding/bbding.sty
+Package: bbding 1999/04/15 v1.01 Dingbats symbols
 )
-LaTeX Font Info:    Trying to load font information for T1+zplTLF on input line 9.
+LaTeX Font Info:    Trying to load font information for T1+zplTLF on input line 10.
  (c:/texlive/2023/texmf-dist/tex/latex/newpx/t1zpltlf.fd
 File: t1zpltlf.fd 2021/05/25 v1.0 font definition file for T1/zpl/TLF
 )
 LaTeX Font Info:    Font shape `T1/zplTLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 9.
+(Font)              scaled to size 10.0pt on input line 10.
  (c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count347
@@ -997,44 +999,44 @@ File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
 ) (./ALPhys.aux)
 \openout1 = `ALPhys.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/npxmi/m/it on input line 9.
-LaTeX Font Info:    Trying to load font information for OML+npxmi on input line 9.
+LaTeX Font Info:    Checking defaults for OML/npxmi/m/it on input line 10.
+LaTeX Font Info:    Trying to load font information for OML+npxmi on input line 10.
  (c:/texlive/2023/texmf-dist/tex/latex/newpx/omlnpxmi.fd
 File: omlnpxmi.fd 2013/03/21 Fontinst v1.933 font definitions for OML/npxmi.
 )
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/npxexa/m/n on input line 9.
-LaTeX Font Info:    Trying to load font information for U+npxexa on input line 9.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/npxexa/m/n on input line 10.
+LaTeX Font Info:    Trying to load font information for U+npxexa on input line 10.
  (c:/texlive/2023/texmf-dist/tex/latex/newpx/unpxexa.fd
 File: unpxexa.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxexa.
 )
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for LMS/npxsy/m/n on input line 9.
-LaTeX Font Info:    Trying to load font information for LMS+npxsy on input line 9.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for LMS/npxsy/m/n on input line 10.
+LaTeX Font Info:    Trying to load font information for LMS+npxsy on input line 10.
  (c:/texlive/2023/texmf-dist/tex/latex/newpx/lmsnpxsy.fd
 File: lmsnpxsy.fd 2016/07/04 Fontinst v1.933 font definitions for LMS/npxsy.
 )
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for LMX/npxexx/m/n on input line 9.
-LaTeX Font Info:    Trying to load font information for LMX+npxexx on input line 9.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for LMX/npxexx/m/n on input line 10.
+LaTeX Font Info:    Trying to load font information for LMX+npxexx on input line 10.
  (c:/texlive/2023/texmf-dist/tex/latex/newpx/lmxnpxexx.fd
 File: lmxnpxexx.fd 2016/07/04 Fontinst v1.933 font definitions for LMX/npxexx.
 )
-LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    ... okay on input line 10.
  (c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count348
@@ -1050,18 +1052,12 @@ LaTeX Font Info:    ... okay on input line 9.
 \everyMPtoPDFconversion=\toks58
 ) (c:/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
- (c:/texlive/2023/texmf-dist/tex/latex/grfext/grfext.sty
-Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
-)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 504.
  (c:/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-LaTeX Info: Command `\dddot' is already robust on input line 9.
-LaTeX Info: Command `\ddddot' is already robust on input line 9.
+LaTeX Info: Command `\dddot' is already robust on input line 10.
+LaTeX Info: Command `\ddddot' is already robust on input line 10.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1097,7 +1093,7 @@ LaTeX Info: Command `\ddddot' is already robust on input line 9.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 9.
+Package hyperref Info: Link coloring ON on input line 10.
 (./ALPhys.out) (./ALPhys.out)
 \@outlinefile=\write4
 \openout4 = `ALPhys.out'.
@@ -1225,14 +1221,14 @@ LaTeX Font Info:    Font shape `T1/zplTLF/b/n' will be
 
 {c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}])
 Chapter 2.
-LaTeX Font Info:    Trying to load font information for TS1+zplTLF on input line 17.
+LaTeX Font Info:    Trying to load font information for TS1+zplTLF on input line 18.
 (c:/texlive/2023/texmf-dist/tex/latex/newpx/ts1zpltlf.fd
 File: ts1zpltlf.fd 2021/11/24 v1.0 fd file for TS1/zplTLF
 )
 LaTeX Font Info:    Font shape `TS1/zplTLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 17.
+(Font)              scaled to size 10.0pt on input line 18.
 LaTeX Font Info:    Font shape `T1/zplTLF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 17.
+(Font)              scaled to size 10.0pt on input line 18.
  [1
 
 
@@ -1247,9 +1243,9 @@ Chapter 4.
 ]
 Chapter 5.
 LaTeX Font Info:    Font shape `T1/zplTLF/m/n' will be
-(Font)              scaled to size 7.3pt on input line 75.
+(Font)              scaled to size 7.3pt on input line 76.
 LaTeX Font Info:    Font shape `T1/zplTLF/m/n' will be
-(Font)              scaled to size 5.5pt on input line 75.
+(Font)              scaled to size 5.5pt on input line 76.
 [4
 
 {c:/texlive/2023/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}]
@@ -1270,7 +1266,7 @@ Chapter 9.
 
 ]
 LaTeX Font Info:    Font shape `T1/zplTLF/m/sl' will be
-(Font)              scaled to size 10.0pt on input line 210.
+(Font)              scaled to size 10.0pt on input line 211.
  [9{c:/texlive/2023/texmf-dist/fonts/enc/dvips/newtx/ntx-ecth-tlf.enc}]
 Chapter 10.
 [10
@@ -1278,8 +1274,11 @@ Chapter 10.
 ]
 Chapter 11.
 LaTeX Font Info:    Font shape `T1/zplTLF/m/n' will be
-(Font)              scaled to size 5.0pt on input line 318.
-[11
+(Font)              scaled to size 5.0pt on input line 319.
+LaTeX Font Info:    Trying to load font information for U+ding on input line 324.
+(c:/texlive/2023/texmf-dist/tex/latex/bbding/Uding.fd
+File: Uding.fd 1996/02/01 v1.0 BBding font definitions
+) [11
 
 ] (./ALPhys.aux)
  ***********
@@ -1295,18 +1294,18 @@ Package rerunfilecheck Info: File `ALPhys.out' has not changed.
 (rerunfilecheck)             Checksum: 29F8D6D5A2EF4D0082A827CD95BA3242;1264.
  ) 
 Here is how much of TeX's memory you used:
- 32013 strings out of 475237
- 619562 string characters out of 5768555
+ 32132 strings out of 475237
+ 621116 string characters out of 5768555
  1937238 words of memory out of 5000000
- 52556 multiletter control sequences out of 15000+600000
- 632487 words of font info for 159 fonts, out of 8000000 for 9000
+ 52670 multiletter control sequences out of 15000+600000
+ 632632 words of font info for 160 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  109i,17n,111p,539b,1094s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2023/texmf-dist/fonts/type1/public/newpx/NewPXMI_gnu.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/euler/eurm10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/euler/eurm5.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/euler/eurm7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/newpx/pxmiaX.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/newpx/pxsys.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/tex-gyre/qhvr.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/newtx/txexs.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/txfonts/txsya.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/newpx/zplb.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/newpx/zplr.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/newpx/zplri.pfb>
-Output written on ALPhys.pdf (12 pages, 200283 bytes).
+<c:/texlive/2023/texmf-dist/fonts/type1/public/newpx/NewPXMI_gnu.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/niceframe-type1/bbding10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/euler/eurm10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/euler/eurm5.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/euler/eurm7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/newpx/pxmiaX.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/newpx/pxsys.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/tex-gyre/qhvr.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/newtx/txexs.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/txfonts/txsya.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/newpx/zplb.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/newpx/zplr.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/newpx/zplri.pfb>
+Output written on ALPhys.pdf (12 pages, 207999 bytes).
 PDF statistics:
- 216 PDF objects out of 1000 (max. 8388607)
- 173 compressed objects within 2 object streams
+ 221 PDF objects out of 1000 (max. 8388607)
+ 176 compressed objects within 2 object streams
  42 named destinations out of 1000 (max. 500000)
  93 words of extra memory for PDF output out of 10000 (max. 10000000)
 
