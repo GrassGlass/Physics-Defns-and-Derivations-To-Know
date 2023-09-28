@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.10)  19 SEP 2023 22:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.10)  28 SEP 2023 12:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1266,7 +1266,7 @@ Chapter 9.
 
 ]
 LaTeX Font Info:    Font shape `T1/zplTLF/m/sl' will be
-(Font)              scaled to size 10.0pt on input line 211.
+(Font)              scaled to size 10.0pt on input line 218.
  [9{c:/texlive/2023/texmf-dist/fonts/enc/dvips/newtx/ntx-ecth-tlf.enc}]
 Chapter 10.
 [10
@@ -1274,8 +1274,8 @@ Chapter 10.
 ]
 Chapter 11.
 LaTeX Font Info:    Font shape `T1/zplTLF/m/n' will be
-(Font)              scaled to size 5.0pt on input line 319.
-LaTeX Font Info:    Trying to load font information for U+ding on input line 324.
+(Font)              scaled to size 5.0pt on input line 326.
+LaTeX Font Info:    Trying to load font information for U+ding on input line 331.
 (c:/texlive/2023/texmf-dist/tex/latex/bbding/Uding.fd
 File: Uding.fd 1996/02/01 v1.0 BBding font definitions
 ) [11
@@ -1294,18 +1294,18 @@ Package rerunfilecheck Info: File `ALPhys.out' has not changed.
 (rerunfilecheck)             Checksum: 29F8D6D5A2EF4D0082A827CD95BA3242;1264.
  ) 
 Here is how much of TeX's memory you used:
- 32132 strings out of 475237
- 621116 string characters out of 5768555
+ 32136 strings out of 475237
+ 621144 string characters out of 5768555
  1937238 words of memory out of 5000000
  52670 multiletter control sequences out of 15000+600000
  632632 words of font info for 160 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  109i,17n,111p,539b,1094s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/newpx/NewPXMI_gnu.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/niceframe-type1/bbding10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/euler/eurm10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/euler/eurm5.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/euler/eurm7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/newpx/pxmiaX.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/newpx/pxsys.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/tex-gyre/qhvr.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/newtx/txexs.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/txfonts/txsya.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/newpx/zplb.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/newpx/zplr.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/newpx/zplri.pfb>
-Output written on ALPhys.pdf (12 pages, 207999 bytes).
+Output written on ALPhys.pdf (12 pages, 208739 bytes).
 PDF statistics:
- 221 PDF objects out of 1000 (max. 8388607)
- 176 compressed objects within 2 object streams
- 42 named destinations out of 1000 (max. 500000)
+ 226 PDF objects out of 1000 (max. 8388607)
+ 181 compressed objects within 2 object streams
+ 46 named destinations out of 1000 (max. 500000)
  93 words of extra memory for PDF output out of 10000 (max. 10000000)
 
