@@ -8,3 +8,4 @@
 \contentsline {chapter}{\numberline {9}Gravitational Fields}{8}{chapter.9}%
 \contentsline {chapter}{\numberline {10}Oscillations}{10}{chapter.10}%
 \contentsline {chapter}{\numberline {11}Wave Motion}{11}{chapter.11}%
+\contentsline {chapter}{\numberline {12}Superposition}{12}{chapter.12}%
